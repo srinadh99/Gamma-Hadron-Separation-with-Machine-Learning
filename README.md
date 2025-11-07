@@ -1,11 +1,6 @@
 # Gamma-Hadron-Separation-with-Machine-Learning
 Gamma-Hadron Separation with Machine Learning
 
-Here’s a **ready-to-use GitHub README** draft summarizing your full workflow, steps, and usage.
-It’s formatted for Markdown rendering in GitHub, with collapsible sections for clarity and an option to view confusion matrix and ROC plots.
-
----
-
 # MAGIC Gamma–Hadron Classification (Low-FPR Machine Learning Suite)
 
 This repository provides a **machine learning framework** to classify **gamma-ray (signal)** vs. **hadronic (background)** events from the **MAGIC dataset**, emphasizing **low false-positive rate (FPR)** performance.
