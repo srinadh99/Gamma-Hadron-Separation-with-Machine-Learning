@@ -141,13 +141,13 @@ To showcase your actual outputs in the README (GitHub renders them nicely), inse
 ### Example Outputs
 
 #### Confusion Matrix (MLP)
-![MLP Confusion Matrix](plots/MLP_test_confusion.png)
+![MLP Confusion Matrix](plot_rawfeatures/MLP — cm.png)
 
 #### ROC Curve (MLP)
-![MLP ROC Curve](plots/MLP_test_roc.png)
+![MLP ROC Curve](plot_rawfeatures/MLP — ROC.png)
 
 #### ROC Overlay (All Models)
-![All Models ROC](plots/all_models_test_roc.png)
+![All Models ROC](plot_rawfeatures/ROC_allmodels.png)
 ```
 
 You can adjust image paths and file names according to your experiment folder structure.
@@ -167,10 +167,4 @@ pip install numpy pandas scikit-learn matplotlib xgboost tabulate
 ## 📚 Citation / Acknowledgment
 
 If you use this repository for research or presentations, please credit:
-
-> Bhavanam, S.R. et al., *Low-FPR ML Framework for Gamma–Hadron Classification (MAGIC Dataset)*, 2025.
-
----
-
-Would you like me to add a small badge table at the top (Python version, scikit-learn version, license, etc.) for your GitHub header? It makes the README look polished.
 
