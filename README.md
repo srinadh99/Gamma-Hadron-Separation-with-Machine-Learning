@@ -141,7 +141,7 @@ To showcase your actual outputs in the README (GitHub renders them nicely), inse
 ### Example Outputs
 
 #### Confusion Matrix (MLP)
-![MLP Confusion Matrix](plot_rawfeatures/MLP — cm.png)
+![MLP Confusion Matrix](plot_rawfeatures/mlp_cm.png)
 
 #### ROC Curve (MLP)
 ![MLP ROC Curve](plot_rawfeatures/MLP — ROC.png)
